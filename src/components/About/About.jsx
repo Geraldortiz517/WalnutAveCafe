@@ -11,7 +11,7 @@ const About = () => {
     </div>
     <div className="about__content">
         <h2 className="section__title" data-title="About Us">
-       Fresh Quality And Organic Tasty Breakefast House For You
+       Fresh Quality And Organic Tasty Breakfast House For You
         </h2>
         <p className="about__description">
             A mainstay in the heart of downtown Santa Cruz, locals have been 

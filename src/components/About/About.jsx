@@ -34,7 +34,7 @@ const About = () => {
         </p>
         
     </div>
-    <a href="#team" className="btn">Our Experts</a>
+
     </div>
 </div>
   </section>

@@ -5,10 +5,10 @@ import Home from "./components/home/Home"
 import About from "./components/About/About"
 import Menu from "./components/menu/Menu"
 import Contact from "./components/contact/Contact"
-import Gallery from './components/gallery/Gallery'
 import Specials from './components/specials/Specials'
 import Testimonials from './components/testimonials/Testimonials'
 import Footer from './components/footer/Footer'
+import Galeria from './components/galeria/galeria'
 function App() {
 
   return (
@@ -18,7 +18,7 @@ function App() {
   <About/>
   <Menu/>
   <Contact/>
-  <Gallery/>
+  <Galeria/>
   <Specials/>
   <Testimonials/>
   <Footer/>

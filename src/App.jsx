@@ -16,9 +16,9 @@ function App() {
    <Header/>
   <Home/>
   <About/>
-  <Menu/>
-  <Contact/>
+  <Menu/> 
   <Galeria/>
+  <Contact/>
   <Specials/>
   <Testimonials/>
   <Footer/>

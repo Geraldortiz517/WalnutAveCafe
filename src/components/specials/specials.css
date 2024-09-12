@@ -43,7 +43,7 @@
    content: "";
    position: absolute;
    inset: 0.5rem;
-   border: 2px dashed var(--first-color);
+   border: 2px dashed #728959;
 }
 .content__title{
     margin-bottom: 1.5rem;

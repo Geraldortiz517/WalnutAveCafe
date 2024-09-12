@@ -35,13 +35,13 @@
 .menu__item:hover {
     display: block;
     height: fit-content;
-    border: 1px solid var(--first-color);
+    border: 2px solid #728959;
     transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
   }
 .menu__img-wrapper{
     width: 80px;
     height: 80px;
-    border: 2px solid var(--first-color);
+    border: 2px solid #728959;
     padding: 3px;
 }
 .menu__img-wrapper,

@@ -9,13 +9,11 @@
     height: calc(--header-height)+ 1.5rem;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
+    height: 10vh;
     position: relative;
 }
-.nav__logo-img{
-    width: 140px;
-    cursor: pointer;
-}
+
 
 .nav__list{
     display: flex;
@@ -39,7 +37,8 @@
     color: var(--title-color);
 }
 .nav__toggle{
-    width: 40px;
+    width: 80px;
+    height: fit-content;
     margin-right: 2rem;
     display:none ;
 }
@@ -62,6 +61,30 @@
         transform: translateY(0);
     }
 }
-/*==================
-    Active link
-    ==============*/
+/*media quaries*/
+@media screen and (max-width: 1200px) {
+    .header{
+        position: absolute;
+        top: 8%;
+        width: fit-content;
+        background-color: var(--container-color);
+    }
+    .scroll-header{
+        position: fixed;
+        background-color: var(--container-color);
+        animation: slide-down 0.7s;
+    }
+    .nav{
+        height: calc(--header-height)+ 1.5rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 10vh;
+        position: relative;
+    }
+    
+
+
+
+
+}

@@ -19,12 +19,12 @@ useEffect(() => {
     window.addEventListener("scroll", changeHeader)
 }, []);
 
+
+
 return ( 
     <header className={ `${ scrollHeader ? 'scroll-header' : ''} header`}>
         <nav className="nav container">
-            <a href="/" className="nav__logo">
-                <img src={logo2} alt="" className="nav__logo-img" />
-            </a>
+           
             <div className={ `${ showMenu ? 'show-menu' : ''} nav__menu`}>
                 <ul className="nav__list"> 
                    <li className="nav__item">

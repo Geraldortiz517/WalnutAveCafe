@@ -6,12 +6,14 @@
 .contact__img-wrapper{
     position: relative;
    
-    
 
+}
+#contact{
+    background-color: #728959;
 }
 .contact__img{
     border: 3px dashed var(--first-color);
-    border-radius: 50%;
+    border-radius: 20%;
      margin-left: 50%;
     transform: translate(-50%);
 }
@@ -55,4 +57,7 @@
 .contact__details,
 .contact__details-description{
     gap: 0.625rem;
+}
+a{
+    color: white;
 }

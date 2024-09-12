@@ -17,7 +17,6 @@ function App() {
   <Home/>
   <About/>
   <Menu/> 
-  <Galeria/>
   <Contact/>
   <Specials/>
   <Testimonials/>

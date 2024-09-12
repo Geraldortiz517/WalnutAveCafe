@@ -1,3 +1,6 @@
+#about{
+    background-color: #728959;
+}
 .about__grid{
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
@@ -6,7 +9,7 @@
 .about__img-wrapper{
     position: relative;
     padding-left: 1.5rem;
-    box-shadow: 20px -16px var(--first-color);
+    box-shadow: 20px 30px white;
 }
 
 

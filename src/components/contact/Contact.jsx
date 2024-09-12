@@ -15,15 +15,20 @@ off Pacific Avenue. There is ample parking in the two
 story parking garage on Center St. behind our building
 or on the street.</p>
 <div className="contact__flex"><img src={phone} alt="" />
-    <p className="days">831 457-2307</p>
+<a href="tel:8314572307" >  <p className="days">831 457-2307</p>   </a>
+    
 </div>
 <div className="contact__flex"><img src={phone} alt="" />
-    <p className="days">831 457-2804</p>
+<a href="tel:8314572804">  <p className="days">831 457-2804</p>         </a>
+   
 </div>
 <div className="contact__flex"><img src={location} alt="" />
-    <p className="days">106 Walnut Avenue  Santa Cruz, CA. 95060</p>
-</div>
 
+    <p className="days">106 Walnut Avenue  Santa Cruz, CA. 95060</p>
+    
+</div>
+<a href="https://www.google.com/maps/place/The+Walnut+Avenue+Cafe/@36.9735883,-122.029062,17z/data=!3m2!4b1!5s0x808e4026243327b5:0xc22e0aa2239b6c78!4m6!3m5!1s0x808e40262f5b3dbd:0x3616568395488b09!8m2!3d36.973584!4d-122.0264871!16s%2Fg%2F1tm1qpyj?entry=ttu&g_ep=EgoyMDI0MDkwOS4wIKXMDSoASAFQAw%3D%3D"
+     className="btn"> Open Maps </a>
         </div>
         <div className="contact__content">
             <h2 className="section__title">

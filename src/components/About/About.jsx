@@ -11,15 +11,18 @@ const About = () => {
     </div>
     <div className="about__content">
         <h2 className="section__title" data-title="About Us">
-       Fresh Quality And Organic Tasty Breakfast House For You
+       welcome to Walnut Avenue Cafe 
         </h2>
         <p className="about__description">
-            A mainstay in the heart of downtown Santa Cruz, locals have been 
-            goin nuts for the popularity of the Walnut Ave Cafe. </p>
+            A beloved santa Cruz staple since 1994! Whether you're 
+            craving a delicious breakfast, a satisfying lunch, or a laid-back 
+            weekend brunch, we've got you covered. </p>
         <p>
-            Mike Bobadilla started in 2001 as general manager, became an owner 
-            in 2014 along side his bussines partner and lead chef Hector de la Torre. 
+            Nestled in the heart of Downtown Santa Cruz, our cozy spot offers
+            both indoor and outdoor seating for the perfect relaxed experience. Stop
+            by and taste what's made us a local favorite for over 25 years.  
        </p>
+       <p>- We can't wait to serve you!</p>
     <div className="about__details grid">
         <p className="about__details-description">
         Amazing food

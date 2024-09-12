@@ -7,7 +7,7 @@ const Menu = () => {
 
 <section className="menu section" id="menu">
     <h2 className="section__title" data-title="Menu">
-       Let's Check Our Cafe Favorites
+       Check Out Some of Our Cafe Favorites
         </h2>
 
 

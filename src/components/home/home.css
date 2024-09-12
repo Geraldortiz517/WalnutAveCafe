@@ -18,7 +18,10 @@
     background-size: cover;
     background-image: url(../../assets/bg-home.jpg);
 }
+.home-logo-img{
+    width: 200px;
 
+}
 .home__container{
     width: 100%;
 }
@@ -38,7 +41,7 @@
 .home__title{
     font-size: var(--biggest-font-size);
     font-weight: var(--weight-700);
-    margin-block: 2.25rem;
+    margin-block: 0.25rem;
 }
 .home__btn{
 background-color: transparent;

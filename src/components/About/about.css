@@ -8,11 +8,13 @@
 }
 .about__img-wrapper{
     position: relative;
-    padding-left: 1.5rem;
     box-shadow: 20px 30px white;
 }
 
-
+.about__content{
+    text-align: center;
+    margin-top: 5vh;
+}
 .about__details{
     margin-block:1.25rem 2.25rem ;
 }
@@ -23,4 +25,9 @@
 .about__details,
 .about__details-description{
     gap: 0.625rem;
+}
+@media screen and (max-width: 1200px){
+    .about__img-wrapper{
+        box-shadow: 8px 10px white;
+    }
 }

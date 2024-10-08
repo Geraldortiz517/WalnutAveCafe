@@ -40,8 +40,9 @@
    transition: 0.3s var(--transition);
   }
    .show-menu{
-      max-height: fit-content;
-      width: fit-content;
+    width: 90%;
+    max-height: 270px;
+
     }
 .nav__list{
   flex-direction: column;
@@ -130,7 +131,9 @@
     transition: 0.3s var(--transition);
   }
   .show-menu{
-    max-height: 220px;
+    width: 90%;
+    max-height: 270px;
+
   }
 .nav__list{
   flex-direction: column;
@@ -227,7 +230,9 @@ transform: translate(-50%);
   transition: 0.3s var(--transition);
 }
 .show-menu{
-  max-height: 220px;
+  width: 90%;
+  max-height: 270px;
+
 }
   
   .gallery__grid{
@@ -273,7 +278,9 @@ transform: translate(-50%);
   transition: 0.3s var(--transition);
 }
 .show-menu{
-  max-height: 220px;
+  width: 90%;
+  max-height: 270px;
+
 }
 .nav__list{
 flex-direction: column;

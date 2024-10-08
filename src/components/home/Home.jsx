@@ -10,14 +10,10 @@ const Home = () => {
             <div className="home__content">
 
               <div className="row-container">
-                <div className="row1">
-                <img id="logo2-img"  src={logo2} alt="" className="home-logo-img"   />
-              </div>
-              
                <div className="row2">
-            <span className="home__subtitle">Welcome to the Walnut Avenue Cafe</span>
+            <h1 className="home__subtitle">Welcome to the Walnut Avenue Cafe</h1>
               <h1 className="home__title">  
-             Santa Cruz's Favorite Breakfast Place since 1994
+             Santa Cruz's Favorite Breakfast y Lunch Place since 1993
              </h1>
            
 

@@ -18,10 +18,7 @@
     background-size: cover;
     background-image: url(../../assets/bg-home.jpg);
 }
-.home-logo-img{
-    width: 200px;
 
-}
 .home__container{
     width: 100%;
 }
@@ -34,13 +31,15 @@
     color: var(--title-color);
 }
 .home__subtitle{
-    font-family: var(--second-fond);
- font-size: var(--h1-font-size);
- font-weight: var(--weight-500);
+    font-size: var(--biggest-font-size);
+    font-weight: var(--weight-700);
+    
+    margin-block: 0.25rem;
 }
 .home__title{
     font-size: var(--biggest-font-size);
     font-weight: var(--weight-700);
+ 
     margin-block: 0.25rem;
 }
 .home__btn{

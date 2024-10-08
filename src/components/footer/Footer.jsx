@@ -31,9 +31,6 @@ const Footer = () => {
                     <a href="#contact" className="nav__link">Contact</a>
                    </li>
                    <li className="nav__item">
-                    <a href="#gallery" className="nav__link">Gallery</a>
-                   </li>
-                   <li className="nav__item">
                     <a href="#specials" className="nav__link">Specials</a>
                    </li>
                    <li className="nav__item">

@@ -61,3 +61,10 @@
 a{
     color: white;
 }
+.social_media{
+    display: flex;
+}
+.social_links{
+    margin-left: 5vh;
+    margin-top: 4vh;
+}

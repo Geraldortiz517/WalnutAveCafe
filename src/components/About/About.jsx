@@ -14,7 +14,7 @@ const About = () => {
        welcome to Walnut Avenue Cafe 
         </h2>
         <p className="about__description">
-            A beloved santa Cruz staple since 1994! Whether you're 
+            A beloved santa Cruz staple since 1993! Whether you're 
             craving a delicious breakfast, a satisfying lunch, or a laid-back 
             weekend brunch, we've got you covered. </p>
         <p>
@@ -23,20 +23,7 @@ const About = () => {
             by and taste what's made us a local favorite for over 25 years.  
        </p>
        <p>- We can't wait to serve you!</p>
-    <div className="about__details grid">
-        <p className="about__details-description">
-        Amazing food
-        </p>
-        <p className="about__details-description">
-       
-        Great location
-        </p>
-        <p className="about__details-description">
-       
-        Even better atention 
-        </p>
-        
-    </div>
+ 
 
     </div>
 </div>

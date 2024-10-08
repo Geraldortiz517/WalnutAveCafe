@@ -135,12 +135,26 @@ export const menu = [
   {
     id: 7,
     img: menu7,
+    title: 'Shrimp, Tomato & Red Onion Caesar',
+    description: ' Romaine with seasoned shrimp, red onions, and diced tomato. ',
+    price: 5.25,
+  },
+  {
+    id: 8,
+    img: menu8,
+    title: 'Curried Chicken & Walnut Salad',
+    description: 'Our large Garden Salad topped with curried chicken & walnut. ',
+    price: 5.25,
+  },
+  {
+    id: 9,
+    img: menu7,
     title: 'Cappuccino',
     description: ' Perfect balance of rich espresso, steamed milk, and a velvety layer of foam dusted with cocoa.  ',
     price: 5.25,
   },
   {
-    id: 8,
+    id: 10,
     img: menu8,
     title: 'Walnut Latte',
     description: 'Espresso with creamy steamed milk, topped with a light layer of foam and dusted with cocoa',

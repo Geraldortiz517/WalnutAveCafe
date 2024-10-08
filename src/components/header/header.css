@@ -1,6 +1,8 @@
 .header{
     position: absolute;
     left: 0;
+    background-color: var(--new-green-color);
+    border-bottom: 2px solid  var(--first-color);
     top: 0;
     width: 100%;
     z-index: 100;
@@ -9,9 +11,12 @@
     height: calc(--header-height)+ 1.5rem;
     display: flex;
     align-items: center;
-    justify-content: center;
-    height: 10vh;
+    justify-content: space-between;
     position: relative;
+}
+.nav__logo-img{
+    width: 140px;
+    cursor: pointer;
 }
 
 
@@ -49,7 +54,7 @@
 
     .scroll-header{
         position: fixed;
-        background-color: var(--container-color);
+        background-color: var(--new-green-color);
         animation: slide-down 0.7s;
     }
     @keyframes slide-down
@@ -65,20 +70,21 @@
 @media screen and (max-width: 1200px) {
     .header{
         position: absolute;
-        top: 8%;
-        width: fit-content;
-        background-color: var(--container-color);
+        top: 0%;
+        width: 100%;
+        background-color: var(--new-green-color);
+    border-bottom: 2px solid  var(--first-color);
+      
     }
     .scroll-header{
         position: fixed;
-        background-color: var(--container-color);
         animation: slide-down 0.7s;
     }
     .nav{
         height: calc(--header-height)+ 1.5rem;
         display: flex;
         align-items: center;
-        justify-content: center;
+        justify-content: space-between;
         height: 10vh;
         position: relative;
     }

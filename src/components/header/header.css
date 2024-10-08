@@ -42,7 +42,7 @@
     color: var(--title-color);
 }
 .nav__toggle{
-    width: 80px;
+  
     height: fit-content;
     margin-right: 2rem;
     display:none ;

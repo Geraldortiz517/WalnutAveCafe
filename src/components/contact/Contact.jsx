@@ -12,10 +12,10 @@ return (
         <div className="contact__img-wrapper">
        <img src={logo} alt="" className="contact__img" /> 
        <h2 className="section__title" data-title="Contact Us"></h2>
-       <p className="days">We are located at 106 Walnut Avenue, Santa Cruz just
-off Pacific Avenue. There is ample parking in the two
-story parking garage on Center St. behind our building
-or on the street.</p>
+       <p className="days">You can find us at 106 Walnut Avenue, Santa Cruz, just
+steps away from Pacific Avenue. Convenient parking is available in the two
+story garage on Center St. behind our building
+or on the street nearby.</p>
 <div className="contact__flex"><img src={phone} alt="" />
 <a href="tel:8314572307" >  <p className="days">831 457-2307</p>   </a>
     

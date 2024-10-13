@@ -11,10 +11,10 @@ const About = () => {
     </div>
     <div className="about__content">
         <h2 className="section__title" data-title="About Us">
-       welcome to Walnut Avenue Cafe 
+       Welcome to Walnut Avenue Cafe 
         </h2>
         <p className="about__description">
-            A beloved santa Cruz staple since 1993! Whether you're 
+            A beloved Santa Cruz staple since 1993! Whether you're 
             craving a delicious breakfast, a satisfying lunch, or a laid-back 
             weekend brunch, we've got you covered. </p>
         <p>

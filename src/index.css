@@ -99,7 +99,7 @@
     height: 140px;
   }
   .specials__content{
-    width: 370px;
+    width: 80%;
     margin-left: 50%;
     transform: translate(-50%);
     margin-top: -5rem;
@@ -154,7 +154,7 @@
     text-align: center;
   }
   .specials__content{
-    width: 100%;
+    width: 80%;
   }
   .container {
     max-width: 600px;

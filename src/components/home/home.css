@@ -26,6 +26,9 @@
     max-width: 800px;
     position: relative;
 }
+strong{
+    font-size: xxx-large;
+}
 .home__subtitle,
 .home__description{
     color: var(--title-color);
@@ -60,3 +63,9 @@ background-color: transparent;
     background-color: var(--first-color);
     color: white;
 }
+    .row2{
+        text-align: center;
+    }
+    .home__btn{
+        justify-content:center ;
+    }

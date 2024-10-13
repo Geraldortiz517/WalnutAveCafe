@@ -11,7 +11,8 @@ const Footer = () => {
     </div>
     <div className="footer__content">
         <h2 className="section__title" data-title="Thank you for visiting">
-       We Work Hard to Make Sure That You Have a Memorable Time With Us
+       We're Dedicated to Ensuring You Have a Delightful And Memorable
+        Experience Everytime You Join Us
         </h2>
        
     </div>

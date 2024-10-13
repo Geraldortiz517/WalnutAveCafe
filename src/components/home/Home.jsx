@@ -11,9 +11,10 @@ const Home = () => {
 
               <div className="row-container">
                <div className="row2">
-            <h1 className="home__subtitle">Welcome to the Walnut Avenue Cafe</h1>
+            <h1 className="home__subtitle">Welcome to the </h1>
+              <h1><strong>Walnut Avenue Cafe</strong></h1>
               <h1 className="home__title">  
-             Santa Cruz's Favorite Breakfast y Lunch Place since 1993
+             Santa Cruz's Favorite Breakfast And Lunch Place since 1993
              </h1>
            
 

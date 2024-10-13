@@ -19,7 +19,7 @@ const Specials = () => {
             <p className='content1'>- Lunch Special</p>
             <p className='content1'>- Sausage of the Day</p>
             <p className='content1'>- Soup of the Day</p>
-            <p className='content1'>- Fresh Baked Muffing of The Day</p>
+            <p className='content1'>- Fresh Baked Muffin of The Day</p>
             <p className='content2'>
             Be sure to ask your server about our daily specials. Fresh, 
             unique options to make your breakfast or lunch memorable! 

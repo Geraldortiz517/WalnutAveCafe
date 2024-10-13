@@ -12,7 +12,9 @@
     background-color: #728959;
 }
 .contact__img{
-    border: 3px dashed var(--first-color);
+    border: 3px solid var(--first-color);
+    padding: 3vh;
+    background-color: white;
     border-radius: 20%;
      margin-left: 50%;
     transform: translate(-50%);

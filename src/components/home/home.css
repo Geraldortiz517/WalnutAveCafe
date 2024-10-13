@@ -23,7 +23,6 @@
     width: 100%;
 }
 .home__content{
-    max-width: 800px;
     position: relative;
 }
 strong{
@@ -63,9 +62,9 @@ background-color: transparent;
     background-color: var(--first-color);
     color: white;
 }
-    .row2{
+.row2{
         text-align: center;
     }
-    .home__btn{
+.home__btns{
         justify-content:center ;
     }

@@ -9,6 +9,7 @@ import Specials from './components/specials/Specials'
 import Testimonials from './components/testimonials/Testimonials'
 import Footer from './components/footer/Footer'
 import Galeria from './components/galeria/galeria'
+import Dogfriendly from './components/dogfriendly/dogfriendly'
 function App() {
 
   return (
@@ -19,6 +20,7 @@ function App() {
   <Menu/> 
   <Contact/>
   <Specials/>
+  <Dogfriendly/>
   <Testimonials/>
   <Footer/>
     </>

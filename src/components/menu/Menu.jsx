@@ -25,7 +25,7 @@ const Menu = () => {
                         <h3 className="menu__title">{title}</h3>
                         <p className="menu__description">{description}</p>
                     </div>
-                    <span className="menu__price">${price}</span>
+           
                 </div>
                 </div>
         
@@ -33,6 +33,9 @@ const Menu = () => {
                  );})}
 
 </div>
+   <h1 className="section__title" >
+       We Have Vegan Options
+        </h1>
 <a href={webmenu} className="btn"  id='bt3'>Check Full Menu</a>
 </section>
         

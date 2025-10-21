@@ -1,6 +1,6 @@
 import { react } from 'react'
 import "./specials.css"
-import offer1 from "../../assets/offer-1.jpg"
+import offer1 from "../../assets/offer-3.jpg"
 import webmenu from "../../assets/webmenu.pdf"
 const Specials = () => {
 

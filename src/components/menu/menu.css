@@ -1,5 +1,5 @@
 .menu{
-    background: url(../../assets/front.jpeg) center / cover fixed;
+    background: url(../../assets/front1.jpg) center / cover fixed;
     position: relative;
 }
 .menu::before{
@@ -47,6 +47,11 @@
 .menu__img-wrapper,
 .menu__img{
     border-radius: 50%;
+}
+.menu__img{
+   height: 100%;
+   width: 100%;
+   object-fit: cover;
 }
 .menu__data{
     display: flex;

@@ -3,7 +3,7 @@
 }
 .container_dogfriendly{
     display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
   background-color: var(--new-green-color)
 }
 
@@ -17,18 +17,33 @@ object-fit: cover;
 }
 .container_dogfrindtly_text{
     text-align: center;
-    width: 100%;
+    width: 100%;  
+    align-items: center;
+    position: relative;
+    top:30%;
 }
+  
+
+   .container_dogfriendly_row1,
+    .container_dogfriendly_row2
+    {
+        margin: 3vh;
+        border: 5px dotted var(--first-color);
+border-radius: 2vh;
+    }
 @media screen and (max-width: 700px){
     .container_dogfriendly{
         display: grid;
      
     }
     .container_dogfriendly_row1,
-    .container_dogfriendly_row2,
-    .container_dogfriendly_row3{
+    .container_dogfriendly_row2{
 border: 2px dotted var(--first-color);
 border-radius: 2vh;
 margin-top: 4vh;
     }
+.container_dogfrindtly_text{
+    
+    top:5%;
+}
 }

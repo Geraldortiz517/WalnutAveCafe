@@ -4,13 +4,13 @@ import coffee from './assets/coffee.svg';
 import freeDelivery from './assets/free-delivery.svg';
 
 import menu1 from './assets/01.jpg';
-import menu2 from './assets/02.jpg';
+import menu2 from './assets/002.jpg';
 import menu3 from './assets/03.jpg';
 import menu4 from './assets/04.jpg';
 import menu5 from './assets/05.jpg';
 import menu6 from './assets/06.jpg';
 import menu7 from './assets/07.jpg';
-import menu8 from './assets/08.jpg';
+import menu8 from './assets/008.jpg';
 
 import gallery1 from './assets/gallery-1.jpg';
 import gallery2 from './assets/gallery-2.jpg';
@@ -95,70 +95,70 @@ export const menu = [
     img: menu1,
     title: 'Eggs Benedict',
     description: 'Two poached eggs with smoked Canadian bacon and our hollandaise sauce served on an English muffin with homefries.',
-    price: 18.25,
+    
   },
   {
     id: 2,
     img: menu2,
     title: 'Huevos Rancheros Con Carnitas ',
     description: 'Two egg, corn tortillas, black beans, grilled peppers, olives & pork Carnitas topped with Ranchero sauce, green onions and cheese.',
-    price: 18.25,
+    
   },
   {
     id: 3,
     img: menu3,
     title: 'French Toast With Grilled Bananas and walnuts',
     description: '',
-    price: 13.50,
+   
   },
   {
     id: 4,
     img: menu4,
-    title: ' 9 - Grain Pancakes topped with Blackberry Sauce',
-    description: ' ',
-    price: 18.25,
+    title: 'Multigrain Pancakes',
+    description: 'Topped with Blueberry or Blackberry Sauce ',
+    
   },
   {
     id: 5,
     img: menu5,
     title: 'Cafe Cristo Sandwich',
     description: 'Turkey, ham and Swiss on extra thick egg battered bread, cranberry sauce with powdered sugar.',
-    price: 18.25,
+    
   },
   {
     id: 6,
     img: menu6,
     title: 'California Burger',
     description: ' Fresh avocado, grilled onions & peppers with Jack cheese.',
-    price: 18.25,
+    
   },
   {
     id: 7,
     img: menu7,
     title: 'Shrimp, Tomato & Red Onion Caesar',
     description: ' Romaine with seasoned shrimp, red onions, and diced tomato. ',
-    price: 5.25,
+ 
   },
   {
     id: 8,
     img: menu8,
     title: 'Curried Chicken & Walnut Salad',
     description: 'Our large Garden Salad topped with curried chicken & walnut. ',
-    price: 5.25,
+    
   },
   {
     id: 9,
     img: menu7,
     title: 'Cappuccino',
     description: ' Perfect balance of rich espresso, steamed milk, and a velvety layer of foam dusted with cocoa.  ',
-    price: 5.25,
+    
   },
   {
     id: 10,
     img: menu8,
-    title: 'Walnut Latte',
-    description: 'Espresso with creamy steamed milk, topped with a light layer of foam and dusted with cocoa',
-    price: 5.25,
+    title: 'Walnut Matcha',
+    description: 'Premium japanise matcha blended with steam milk',
+    
   },
 ];
 

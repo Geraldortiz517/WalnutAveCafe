@@ -4,13 +4,15 @@ import coffee from './assets/coffee.svg';
 import freeDelivery from './assets/free-delivery.svg';
 
 import menu1 from './assets/01.jpg';
-import menu2 from './assets/002.jpg';
-import menu3 from './assets/03.jpg';
+import menu2 from './assets/02.jpg';
+import menu3 from './assets/003.jpg';
 import menu4 from './assets/04.jpg';
 import menu5 from './assets/05.jpg';
 import menu6 from './assets/06.jpg';
 import menu7 from './assets/07.jpg';
-import menu8 from './assets/008.jpg';
+import menu8 from './assets/08.jpg';
+import menu9 from './assets/09.jpg';
+import menu10 from './assets/10.jpg';
 
 import gallery1 from './assets/gallery-1.jpg';
 import gallery2 from './assets/gallery-2.jpg';
@@ -148,14 +150,14 @@ export const menu = [
   },
   {
     id: 9,
-    img: menu7,
+    img: menu9,
     title: 'Cappuccino',
     description: ' Perfect balance of rich espresso, steamed milk, and a velvety layer of foam dusted with cocoa.  ',
     
   },
   {
     id: 10,
-    img: menu8,
+    img: menu10,
     title: 'Walnut Matcha',
     description: 'Premium japanise matcha blended with steam milk',
     

@@ -1,7 +1,7 @@
 import react from 'react'
 import './dogfriendly.css'
 import dog from '../../assets/dog.jpg'
-import corner from '../../assets/corner.png'
+import corner from '../../assets/corner.jpg'
 import vegan from '../../assets/offer-2.jpg'
 function Dogfriendly() {
 

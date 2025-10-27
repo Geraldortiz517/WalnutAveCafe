@@ -1,5 +1,5 @@
 .specials{
-    background: url(../../assets/front.jpeg) center / cover fixed;
+    background: url(../../assets/bg-spc.jpg) center / cover fixed;
     position: relative;
 }
 .specials::before{

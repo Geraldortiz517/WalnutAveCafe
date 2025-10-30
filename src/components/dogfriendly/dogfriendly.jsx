@@ -22,8 +22,9 @@ function Dogfriendly() {
 <p>
     Conviniently close to the heart of downtown Santa Cruz
 </p>
-<h1>Yes, We Love Pets!!</h1>
-<p>Meke sure to check out our doggie menu
+<p className='sect'>&sect;</p>
+<h1>Sit, Stay. Sip</h1>
+<p>Enjoy our dog friendly patio!
 </p>
 </div>
 </div>

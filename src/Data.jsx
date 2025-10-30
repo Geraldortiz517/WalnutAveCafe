@@ -103,7 +103,7 @@ export const menu = [
     id: 2,
     img: menu2,
     title: 'Huevos Rancheros Con Carnitas ',
-    description: 'Two egg, corn tortillas, black beans, grilled peppers, olives & pork Carnitas topped with Ranchero sauce, green onions and cheese.',
+    description: 'Two eggs, corn tortillas, black beans, grilled peppers, olives & pork Carnitas topped with Ranchero sauce, green onions and cheese.',
     
   },
   {
@@ -145,7 +145,7 @@ export const menu = [
     id: 8,
     img: menu8,
     title: 'Curried Chicken & Walnut Salad',
-    description: 'Our large Garden Salad topped with curried chicken & walnut. ',
+    description: 'Our large Garden Salad topped with curried chicken & walnut salad. ',
     
   },
   {
@@ -159,7 +159,7 @@ export const menu = [
     id: 10,
     img: menu10,
     title: 'Walnut Matcha',
-    description: 'Premium japanise matcha blended with steam milk',
+    description: 'Premium japanese matcha blended with steam milk',
     
   },
 ];

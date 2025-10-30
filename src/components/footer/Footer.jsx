@@ -11,8 +11,8 @@ const Footer = () => {
     </div>
     <div className="footer__content">
         <h2 className="section__title" data-title="Thank you for visiting">
-       We're Dedicated to Ensuring You Have a Delightful And Memorable
-        Experience Everytime You Join Us
+       We're Dedicated to Ensuring You Have a Delightful and Memorable
+        Experience Every Time You Join Us;
         </h2>
        
     </div>
@@ -46,8 +46,9 @@ const Footer = () => {
                 <p>&#169;Copyright 2024</p>
                 <p className='copy'>Walnut Avenue Cafe</p>
                 <p>All Rights Reserved</p>
-            </div>
-
+                </div>
+ <p className='disclosure' >Menu items, ingredients and prices may change at any time without notice</p>
+           
   </section>
   )
 }

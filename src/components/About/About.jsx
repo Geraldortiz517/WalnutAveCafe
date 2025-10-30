@@ -18,11 +18,11 @@ const About = () => {
             craving a delicious breakfast, a satisfying lunch, or a laid-back 
             weekend brunch, we've got you covered. </p>
         <p>
-            Nestled in the heart of Downtown Santa Cruz, our cozy spot offers
+            Nestled in the heart of downtown Santa Cruz, our cozy spot offers
             both indoor and outdoor seating for the perfect relaxed experience. Stop
             by and taste what's made us a local favorite for over 25 years.  
        </p>
-       <p>- We can't wait to serve you!</p>
+       <p>We can't wait to serve you!</p>
  
 
     </div>

@@ -13,8 +13,7 @@ return (
        <img src={logo} alt="" className="contact__img" /> 
        <h2 className="section__title" data-title="Contact Us"></h2>
        <p className="days">You can find us at 106 Walnut Avenue, Santa Cruz, just
-steps away from Pacific Avenue. Convenient parking is available in the two
-story garage on Center St. behind our building
+steps away from Pacific Avenue. Convenient parking is available in the two-story garage on Center Street, behind our building
 or on the street nearby.</p>
 <div className="contact__flex"><img src={phone} alt="" />
 <a href="tel:8314572307" >  <p className="days">831 457-2307</p>   </a>
@@ -45,7 +44,7 @@ or on the street nearby.</p>
 
         <div className="contact__content">
             <h2 className="section__title">
-           Opening Hours
+           Hours of Operation
             </h2>
 
         <div className="contact__details-grid">
@@ -69,6 +68,8 @@ or on the street nearby.</p>
 </div>
          
         </div>
+        <h2 className="section__title">Breakfast served all day, lunch after 11:00 am</h2>
+        <p className="disclosure">Sorry, we do not accept reservations</p>
         </div>
     </div>
       </section>

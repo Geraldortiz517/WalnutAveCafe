@@ -22,7 +22,9 @@ object-fit: cover;
     position: relative;
     top:30%;
 }
-  
+  .sect{
+    margin: 3vh;
+  }
 
    .container_dogfriendly_row1,
     .container_dogfriendly_row2

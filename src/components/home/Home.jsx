@@ -14,7 +14,7 @@ const Home = () => {
             <h1 className="home__subtitle">Welcome to the </h1>
               <h1><strong>Walnut Avenue Cafe</strong></h1>
               <h1 className="home__title">  
-             Santa Cruz's Favorite Breakfast And Lunch Place since 1993
+             Santa Cruz's Favorite Breakfast and Lunch Place Since 1993
              </h1>
            
 

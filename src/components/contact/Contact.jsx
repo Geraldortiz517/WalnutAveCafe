@@ -5,6 +5,7 @@ import phone from "../../assets/phonee.png"
 import location from "../../assets/location.png"
 import facebook from "../../assets/icons8-facebook-48.png"
 import instagram from "../../assets/icons8-instagram-48.png"
+import yelp from "../../assets/yelp.jpg"
 const Header = () => {
 return ( 
     <section className="contact section" id="contact">
@@ -37,6 +38,9 @@ or on the street nearby.</p>
      </a>
      <a className="social_links" href="https://www.instagram.com/walnutavenuecafe/?igsh=MzRlODBiNWFlZA%3D%3D">
         <img src={instagram} alt="" />
+     </a>
+     <a  className="social_links" href="https://www.yelp.com/biz/walnut-avenue-caf%C3%A9-santa-cruz-2">
+        <img id="yelp" src={yelp} alt="" />
      </a>
      </div>
         </div>

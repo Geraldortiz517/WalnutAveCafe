@@ -73,3 +73,7 @@ a{
 .disclosure{
     text-align: center;
 }
+#yelp{
+    height: 45px;
+    border-radius: 7px;
+}

@@ -22,7 +22,7 @@ function Dogfriendly() {
 <p>
     Conviniently close to the heart of downtown Santa Cruz
 </p>
-<h1>Sit, Stay. Sip</h1>
+<h1>Sit, Stay, Sip</h1>
 <p>Enjoy our dog friendly patio!
 </p>
 </div>

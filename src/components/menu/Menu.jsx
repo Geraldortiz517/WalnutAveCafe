@@ -34,8 +34,8 @@ const Menu = () => {
 
 </div>
    <h1 className="section__title" >
-    Good vives, great taste and yes,
-       Vegan-friendly options too
+    Good vibes, great taste and yes,
+       Vegan-friendly options too.
         </h1>
 <a href={webmenu} className="btn"  id='bt3'>Check Full Menu</a>
 </section>
